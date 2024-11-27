@@ -1,13 +1,14 @@
 # EnemPlatd - plataforma digital Enem
 descrição, quem ele ajuda, objetivo 
 
-## Telas🖥
+
+## Telas 🖥
 ![pagina iniucial](..)
 
-## Como executar o projeto
+## Como executar o projeto ⚙
 ### versoes
 
-## Instruçoes back-end
+## Instruçoes back-end 🖱
 
 ## Instruçoes front-end
 
