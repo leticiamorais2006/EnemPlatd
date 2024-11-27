@@ -15,13 +15,18 @@ O nosso objetivo tem como foco auxiliar os estudantes através de uma plataforma
 - **CSS3** (version )
 - **JAVASCRIPT** (version )
 
-### *Criando uma conta*
+### 🚀*Criando uma conta*
 
 ## Instruções back-end 🖱
 
 ## Instruções front-end 📃
 
 ## Autores 🤝
+<img src="autores.jpeg" alt="Autores" width="150"/>
+- **Ana Clara Tavares Leite**
+- **Leticia Aparecida Lucena Morais**
+- **Rafaela Gatera Tudela**
+
 
 ## Como citar o projeto
 
