@@ -1,7 +1,7 @@
 # EnemPlatd - plataforma digital Enem
 descrição, quem ele ajuda, objetivo 
 
-##🖥 Telas
+🖥 ## Telas
 ![pagina iniucial](..)
 
 ## Como executar o projeto
