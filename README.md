@@ -1,19 +1,19 @@
 # EnemPlatd - plataforma digital Enem
 descrição, quem ele ajuda, objetivo 
 
-📸## telas
+##🖥 Telas
 ![pagina iniucial](..)
 
-## como executar o projeto
+## Como executar o projeto
 ### versoes
 
-## instruçoes back-end
+## Instruçoes back-end
 
-## instruçoes front-end
+## Instruçoes front-end
 
-## aurores
+## Aurores
 
-## como citar
+## Como citar
 
-## apendice 
+## Apendice 
 .[ffff](apendice.pdf)
