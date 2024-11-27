@@ -1,20 +1,29 @@
-# EnemPlatd - plataforma digital Enem
-descrição, quem ele ajuda, objetivo 
+# EnemPlatd - plataforma digital Enem📌
 
+O estudo explora o desenvolvimento de uma plataforma digital para apoiar 
+estudantes na preparação para o Exame Nacional do Ensino Médio (ENEM). 
+O nosso objetivo tem como foco auxiliar os estudantes através de uma plataforma digital.
 
 ## Telas 🖥
 ![pagina iniucial](..)
 
 ## Como executar o projeto ⚙
-### versoes
+### *Versões*
+- **PHP** (version )
+- **XAMPP** (version )
+- **HTML5** (version )
+- **CSS3** (version )
+- **JAVASCRIPT** (version )
 
-## Instruçoes back-end 🖱
+### *Criando uma conta*
 
-## Instruçoes front-end
+## Instruções back-end 🖱
 
-## Aurores
+## Instruções front-end 📃
 
-## Como citar
+## Autores 🤝
+
+## Como citar o projeto
 
 ## Apendice 
 .[ffff](apendice.pdf)
