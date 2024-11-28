@@ -5,7 +5,8 @@ estudantes na preparação para o Exame Nacional do Ensino Médio (ENEM).
 O nosso objetivo tem como foco auxiliar os estudantes através de uma plataforma digital.
 
 ## Telas 🖥
-![pagina iniucial](..)
+<img src="tela inicial.png" alt="Tela Inicial" width="250"/><br>
+<img src="materias.png" alt="Materias" width="300"/>
 
 ## Como executar o projeto ⚙
 ### *Versões*
