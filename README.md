@@ -4,8 +4,14 @@ O estudo explora o desenvolvimento de uma plataforma digital para apoiar
 estudantes na preparação para o Exame Nacional do Ensino Médio (ENEM). 
 O nosso objetivo tem como foco auxiliar os estudantes através de uma plataforma digital.
 
-## Telas 🖥
-<img src="tela inicial.png" alt="Tela Inicial" width="500"/>&nbsp;&nbsp;<img src="materias.jpg" alt="Materias" width="500"/>
+<div align="center">
+<img src="tela inicial.png" alt="Tela Inicial" width="700"/>
+</div><br>
+
+## Tela 🖥
+<div align="center">
+<img src="materias.jpg" alt="Materias" width="800"/>
+</div><br>
 
 ## Como executar o projeto ⚙
 ### *Versões*
