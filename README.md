@@ -48,4 +48,4 @@ Senha - 1234
 ENEMPLATD. Plataforma digital de auxílio para o ENEM. 2024. Disponível em: <https://github.com/leticiamorais2006/EnemPlatd>. Acesso em: 27 nov. 2024.
 
 ## Apendice🔗
-.[kkkkk](APÊNDICE.docx)
+[Apêndice🗂️](APÊNDICE.docx)
