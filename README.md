@@ -38,7 +38,6 @@ Se desejar acessar a área do administrador, utilize:<br>
 Login - admin@gmail.com<br>
 Senha - 1234
 
-
 ## Autores 🤝
 <img src="autores.jpeg" alt="Autores" width="150"/>
 - Ana Clara Tavares Leite<br>
@@ -47,7 +46,6 @@ Senha - 1234
 
 ## Como citar o projeto
 ENEMPLATD. Plataforma digital de auxílio para o ENEM. 2024. Disponível em: <https://github.com/leticiamorais2006/EnemPlatd>. Acesso em: 27 nov. 2024.
-
 
 ## Apendice🔗
 .[ffff](apendice.pdf)
