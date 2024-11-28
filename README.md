@@ -6,7 +6,7 @@ O nosso objetivo tem como foco auxiliar os estudantes através de uma plataforma
 
 ## Telas 🖥
 <img src="tela inicial.png" alt="Tela Inicial" width="250"/><br>
-<img src="materias.png" alt="Materias" width="300"/>
+<img src="materias.jpg" alt="Materias" width="300"/>
 
 ## Como executar o projeto ⚙
 ### *Versões*
